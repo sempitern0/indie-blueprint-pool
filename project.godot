@@ -10,9 +10,20 @@ config_version=5
 
 [application]
 
-config/name="godot-plugin-template"
+config/name="Indie Blueprint Pool"
+config/description="About
+The object pool pattern is a software creational design pattern that uses a set of initialized objects kept ready to use – a \"pool\" – rather than allocating and destroying them on demand"
+config/version="1.0.0"
 config/features=PackedStringArray("4.3", "GL Compatibility")
 config/icon="res://icon.svg"
+
+[autoload]
+
+IndieBlueprintObjectPoolManager="*res://addons/ninetailsrabbit.indie_blueprint_pool/src/object_pool_manager.gd"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/ninetailsrabbit.indie_blueprint_pool/plugin.cfg")
 
 [rendering]
 
