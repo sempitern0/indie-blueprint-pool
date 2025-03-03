@@ -1,5 +1,5 @@
 @tool
-class_name MyPluginSettings extends RefCounted
+class_name IndieBlueprintPoolSettings extends RefCounted
 
 const PluginPrefixName: String = "ninetailsrabbit.indie_blueprint_pool" ## The folder name
 const GitRepositoryName: String = "indie-blueprint-pool"
