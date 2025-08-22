@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bj4ejcxspol1i"
-path="res://.godot/imported/object_pool.svg-6f774ef8862aeb1dfac213e38079edae.ctex"
+path="res://.godot/imported/object_pool.svg-b515fb8c0804156d394e309575712a36.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/ninetailsrabbit.indie_blueprint_pool/icons/object_pool.svg"
-dest_files=["res://.godot/imported/object_pool.svg-6f774ef8862aeb1dfac213e38079edae.ctex"]
+source_file="res://addons/fast_pool/src/object_pool.svg"
+dest_files=["res://.godot/imported/object_pool.svg-b515fb8c0804156d394e309575712a36.ctex"]
 
 [params]
 

@@ -1,12 +1,12 @@
-class_name IndieBlueprintObjectPoolWrapper extends RefCounted
+class_name FastPoolWrapper extends RefCounted
 
 
-var pool: IndieBlueprintObjectPool
+var pool: FastPool
 var instance: Node
 var sleeping: bool = true
 
 
-func _init(_pool: IndieBlueprintObjectPool) -> void:
+func _init(_pool: FastPool) -> void:
 	pool = _pool
 	instance = pool.scene.instantiate()
 

@@ -8,4 +8,4 @@
 
 ## Reporting a Vulnerability
 
-Please [raise an issue](https://github.com/ninetailsrabbit/indie-blueprint-pool/issues) in case you find a security issue.
+Please [raise an issue](https://github.com/sempitern0/fast-pool/issues) in case you find a security issue.
